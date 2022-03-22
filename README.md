@@ -2,7 +2,7 @@
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-Ent Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir ader de index.html barındırıyor.
 ## Installation
 Öncelikle projeyi clonelayın. 
-```https://github.com/beejoh/kodluyoruzilkrepo.git`
+```https://github.com/beejoh/kodluyoruzilkrepo.git```
 ## Usage
 Projeyi cloneladıktan sonra Visual Studio code programında açınız.
 Linux için:
